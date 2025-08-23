@@ -1,0 +1,25 @@
+name: caatinga-clusters
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - scipy
+  - scikit-learn
+  - rasterio
+  - rioxarray
+  - geopandas
+  - shapely>=2
+  - pyproj
+  - fiona
+  - gdal
+  - cartopy
+  - matplotlib
+  - jupyterlab
+  - hdbscan
+  - bottleneck
+  - dask
+  - pip
